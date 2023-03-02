@@ -35,5 +35,3 @@ user-агентом,
 
 ![image_1](C:\Users\huawei\Downloads\CSA_1.jpg)
 
-
-
