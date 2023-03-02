@@ -34,4 +34,8 @@ user-агентом,
 НО суперкомпьютеры работают на Linux ( для петафлопс вычислений, больших облачных вычислений, научных целей и тд.)
 
 ![image_1](C:\Users\huawei\Downloads\CSA_1.jpg)
+![image_1](C:/Users/huawei/Downloads/CSA_1.jpg)
+
+<img src="file:///C:/Users/huawei/Downloads/CSA_1.jpg" />
+
 
