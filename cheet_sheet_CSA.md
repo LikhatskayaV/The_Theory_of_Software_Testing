@@ -33,4 +33,4 @@ user-агентом,
 5% промышленные сервера или банковские сервера или др сложные системы которые интегрированы для работы с Windows это Windows-сервер.
 НО суперкомпьютеры работают на Linux ( для петафлопс вычислений, больших облачных вычислений, научных целей и тд.)
 
-![image_1](C:\Users\huawei\Downloads\Telegram Desktop\CSA_1.png)
+![image_1](https://disk.yandex.ru/client/disk/QA?idApp=client&dialog=slider&idDialog=%2Fdisk%2FQA%2FCSA_1.jpg)
