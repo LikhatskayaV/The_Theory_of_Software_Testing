@@ -40,6 +40,10 @@ user-агентом,
 
 <img src="file:///C:/Users/huawei/Downloads/CSA_1.jpg"/>
 <img src="C:/Users/huawei/Downloads/CSA_1.jpg" 
-		<svg height="60" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="60" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
-    </svg>
+		
+    
+	<a href="https://github.com/LikhatskayaV"> 
+		<img src="C:\Users\huawei\Downloads\Telegram Desktop\CSA_1.png" 
+		</a>
+    
 
