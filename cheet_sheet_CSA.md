@@ -34,16 +34,3 @@ user-агентом,
 НО суперкомпьютеры работают на Linux ( для петафлопс вычислений, больших облачных вычислений, научных целей и тд.)
 
 ![image_1](C:\Users\huawei\Downloads\Telegram Desktop\CSA_1.png)
-
-![test](file:///C:/Users/huawei/Downloads/Telegram%20Desktop/%D0%9B%D0%B8%D1%85%D0%B0%D1%86%D0%BA%D0%B0%D1%8F%20%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F_LIKHATSKAYA%20VIKTORYIA.pdf)
-![image_1](C:/Users/huawei/Downloads/CSA_1.jpg)
-
-<img src="file:///C:/Users/huawei/Downloads/CSA_1.jpg"/>
-<img src="C:/Users/huawei/Downloads/CSA_1.jpg" 
-		
-    
-	<a href="https://github.com/LikhatskayaV"> 
-		<img src="C:\Users\huawei\Downloads\Telegram Desktop\CSA_1.png" 
-		</a>
-    
-
