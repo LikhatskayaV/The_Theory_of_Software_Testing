@@ -76,7 +76,7 @@ heder|2|no
 [Vika's GitHub link]: https://github.com/LikhatskayaV
 [1]: https://github.com/LikhatskayaV
 
-## Ссылки
+## Изображения (Ссылки)
 ---
 
 Задаются почти так же как и ссылки:
@@ -119,16 +119,13 @@ But let's throw in a <b>tag</b> . .
 > В цитатах можно использовать **начертания** и `обрамления`, ~~helohelohelohelohelohelohelo~~ . 
 ## Уведомления
 ---
-!!!important "Важное"
+!!! important "Важное"
 вместо important можно задать любой класс. Наша css тема сейчас поддерживает 3 класса: 
 important, danger, notice. Сейчас используется important.
 
-!!!danger "Пример danger"
+!!! danger "Пример danger"
     здесь указан класс danger
 
-!!!notice "Пример notice"
+!!! notice "Пример notice"
     здесь указан класс notice
-
-
-
 
